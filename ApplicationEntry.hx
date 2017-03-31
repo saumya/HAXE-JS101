@@ -2,7 +2,7 @@ import js.Lib;
 import js.Lib.alert;
 //import js.JQuery;
 import js.html.Document;
-import js.html.DOMWindow;
+import js.html.Window;
 //
 import com.jungle.Tree;
 import com.jungle.Animal;
