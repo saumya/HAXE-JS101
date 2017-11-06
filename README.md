@@ -6,4 +6,6 @@ To compile the application,
 	- open the command prompt and navigate to the folder containing this application
 	- run the following command
 
+```
 haxe compile.hxml
+```
